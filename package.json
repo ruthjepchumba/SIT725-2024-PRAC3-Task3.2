@@ -1,0 +1,26 @@
+{
+  "name": "sit725-2024-prac3-task3.2",
+  "version": "1.0.0",
+  "description": "Bootstrapping express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruthjepchumba/SIT725-2024-PRAC3-Task3.2.git"
+  },
+  "keywords": [
+    "SIT725"
+  ],
+  "author": "Ruth Jepchumba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruthjepchumba/SIT725-2024-PRAC3-Task3.2/issues"
+  },
+  "homepage": "https://github.com/ruthjepchumba/SIT725-2024-PRAC3-Task3.2#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
